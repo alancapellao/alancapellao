@@ -25,11 +25,17 @@
 ### Studying in this moment:
 ![Hibernate](https://img.shields.io/badge/-hibernate-0D1117?style=for-the-badge&logo=hibernate&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![Spring Boot](https://img.shields.io/badge/-spring_boot-0D1117?style=for-the-badge&logo=springboot&labelColor=0D1117)&nbsp;
+  
+  <div align="center">  
+    <br>
+<a href="https://alancptk7.github.io/Portfolio/" target="_blank"><img src="https://img.shields.io/badge/-Meu_Portfólio-%23E4405F?style=for-the-badge&logo=&logoColor=white"</a>
+  <br>
+</div>
 
   <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{alancptk7}/count.svg" /></p> 
-<br></div>
+</div>
   
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
