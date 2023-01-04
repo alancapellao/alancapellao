@@ -28,7 +28,7 @@
   
   <div align="center">  
     <br>
-<a href="https://alancptk7.github.io/Portfolio/" target="_blank"><img src="https://img.shields.io/badge/-Meu_Portfólio-%23E4405F?style=for-the-badge&logo=&logoColor=white"</a>
+<a href="https://alancptk7.github.io/Portfolio/" target="_blank"><img width="20%" height="50px" src="https://img.shields.io/badge/-Meu_Portfólio-00bfbf?style=for-the-badge&logo=&logoColor=white"</a>
   <br>
 </div>
 
