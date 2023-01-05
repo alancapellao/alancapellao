@@ -29,10 +29,10 @@
 <div align="center">  
   
   <button>
-<a href="https://alancptk7.github.io/Portfolio/" target="_blank"><img width="20%" height="50px" src="https://img.shields.io/badge/-Portfólio-00bfbf?style=for-the-badge&logo=pfsense&logoColor=white"</a>&emsp;
+<a href="https://alancptk7.github.io/Portfolio/" target="_blank"><img width="20%" height="50px" src="https://img.shields.io/badge/-Portfólio-00bfbf?style=for-the-badge&logo=pfsense&logoColor=white"</a>
   </button>
 <button>
-<a href="https://www.linkedin.com/in/alancptk/" target="_blank"><img width="20%" height="50px" src="https://img.shields.io/badge/-LinkedIn-00bfbf?style=for-the-badge&logo=linkedin&logoColor=white"</a>&emsp;
+<a href="https://www.linkedin.com/in/alancptk/" target="_blank"><img width="20%" height="50px" src="https://img.shields.io/badge/-LinkedIn-00bfbf?style=for-the-badge&logo=linkedin&logoColor=white"</a>
 </button>
 </div>
   
