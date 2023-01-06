@@ -26,19 +26,14 @@
 ![Hibernate](https://img.shields.io/badge/-hibernate-0D1117?style=for-the-badge&logo=hibernate&logoColor=1572B6&labelColor=0D1117)&nbsp;
 ![Spring Boot](https://img.shields.io/badge/-spring_boot-0D1117?style=for-the-badge&logo=springboot&labelColor=0D1117)&nbsp;
   
-<div align="center">  
-<a href="https://alancptk7.github.io/Portfolio/" target="_blank"><img width="20%" height="50px" src="https://img.shields.io/badge/-Portfólio-00bfbf?style=for-the-badge&logo=pfsense&logoColor=white"</a>
-</div>&emsp;
-    
-<div align="center">  
-<a href="https://www.linkedin.com/in/alancptk/" target="_blank"><img width="20%" height="50px" src="https://img.shields.io/badge/-LinkedIn-00bfbf?style=for-the-badge&logo=linkedin&logoColor=white"</a>
-</div>
+<button>
+<a href="https://alancptk7.github.io/Portfolio/" target="_blank"><img width="15%" height="40px" src="https://img.shields.io/badge/-Portfólio-00bfbf?style=for-the-badge&logo=&logoColor=F8F8FF"</a>
+</button>&emsp;
+<button>
+<a href="https://www.linkedin.com/in/alancptk/" target="_blank"><img width="15%" height="40px" src="https://img.shields.io/badge/-LinkedIn-00bfbf?style=for-the-badge&logo=linkedin&logoColor=F8F8FF"</a>
+</button>
+ 
   
-</div>
-
-  <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{alancptk7}/count.svg" /></p> 
 </div>
   
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
