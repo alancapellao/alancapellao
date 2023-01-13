@@ -14,7 +14,7 @@
 <img align="center" height="30" width="40" alt="js-icon"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
 <img align="center" height="30" width="40" alt="js-icon"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
 <img align="center" height="30" width="40" alt="js-icon"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg">
-<img height="50" src="office.svg">
+<img align="center" height="50" width="40" src="office.svg">
 
 ### Other Knowledge:
 <img align="center" height="30" width="40" alt="js-icon"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
@@ -25,7 +25,7 @@
 ### Studying In This Moment:
 <img align="center" height="30" width="40" alt="js-icon"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
 
- <h2 align="center">Social Networks: </h2>
+ <h2 align="center">Social Networks:</h2>
     <a href = "mailto: alancptk.contato@gmail.com">
       <img width="30" src="gmail.svg">
     </a>
