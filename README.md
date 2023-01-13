@@ -27,11 +27,11 @@
 <img align="center" height="30" width="40" alt="js-icon"  src="hibernate.svg">
 
 <h3 align="center">Social Networks:</h3>
-<a href="mailto: alancptk.contato@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-3498DB?style=for-the-badge&logo=gmail&logoColor=white"</a>
+<a href="mailto: alancptk.contato@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white"</a>
 <a href="www.linkedin.com/in/alancptk" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-3498DB?style=for-the-badge&logo=linkedin&logoColor=white"</a>
 
 ### Portfólio
-[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=alancptk7&repo=portfolio&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/alancptk7/portfolio)
+[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=alancptk7&repo=Portfolio&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/alancptk7/Portfolio)
 
 </div>
   
