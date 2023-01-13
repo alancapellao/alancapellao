@@ -26,7 +26,7 @@
 <img align="center" height="30" width="40" alt="js-icon"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
 <img align="center" height="30" width="40" alt="js-icon"  src="hibernate.svg">
 
-<h3 align="center">Social Networks:</h3>
+<h3 align="center">Contact:</h3>
 <a href="mailto: alancptk.contato@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white"</a>
 <a href="https://www.linkedin.com/in/alancptk/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-3498DB?style=for-the-badge&logo=linkedin&logoColor=white"</a>
 
