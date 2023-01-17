@@ -31,7 +31,7 @@
 <a href="https://www.linkedin.com/in/alancptk/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-3498DB?style=for-the-badge&logo=linkedin&logoColor=white"</a>
 
 ### Portfólio:
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alancptk7&repo=portfolio&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/alancptk7/portfolio)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alancptk7&repo=Portfolio&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/alancptk7/Portfolio)
 
 </div>
   
