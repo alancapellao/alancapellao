@@ -31,6 +31,12 @@
 <a href="https://www.linkedin.com/in/alancptk/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-3498DB?style=for-the-badge&logo=linkedin&logoColor=white"</a>
 
 ### Portfólio:
+
+#### Page:
+<div>
+<a href="mailto: contato.alancptk@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Portfólio-094d79?style=for-the-badge&logo=&logoColor=white"</a><div/>
+
+#### Source code:
 [![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=alancptk7&repo=Portfolio&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/alancptk7/Portfolio)
 
 </div>
