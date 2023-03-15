@@ -24,8 +24,6 @@
 <img align="center" height="30" width="40" alt="js-icon"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   
 ### Studying In This Moment:
-<img align="center" height="30" width="40" alt="js-icon"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
-<img align="center" height="30" width="40" alt="js-icon"  src="hibernate.svg">
 <img align="center" height="50" width="40" alt="js-icon"  src="php.svg">
 
 <h3 align="center">Contact:</h3>
