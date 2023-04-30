@@ -7,7 +7,7 @@
   <img width="35%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=alancptk7&layout=compact&bg_color=30,33A8FF,094d79&title_color=fff&text_color=fff" />
   
 ### Main Skill:
-  <img align="center" height="50" width="40" alt="js-icon"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+<img align="center" height="50" width="40" alt="js-icon"  src="php.svg">
 
 ### Tools:
 <img align="center" height="50" width="40" src="netbeans.svg">
@@ -19,12 +19,12 @@
 
 ### Other Knowledge:
 <img align="center" height="30" width="40" alt="js-icon"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+<img align="center" height="50" width="40" alt="js-icon"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
 <img align="center" height="30" width="40" alt="js-icon"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
 <img align="center" height="30" width="40" alt="js-icon"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
 <img align="center" height="30" width="40" alt="js-icon"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
   
 ### Studying In This Moment:
-<img align="center" height="50" width="40" alt="js-icon"  src="php.svg">
 <img align="center" height="50" width="40" alt="js-icon"  src="laravel-2.svg">
 
 <h3 align="center">Contact:</h3>
