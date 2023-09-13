@@ -8,21 +8,21 @@
   
 ### Main Skill:
 <img align="center" height="50" width="40" alt="js-icon"  src="php.svg">
+<img align="center" height="30" width="40" alt="js-icon"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+<img align="center" height="30" width="40" alt="js-icon"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
 
 ### Tools:
 <img align="center" height="50" width="40" src="netbeans.svg">
 <img align="center" height="30" width="40" alt="js-icon"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
 <img align="center" height="30" width="40" alt="js-icon"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
 <img align="center" height="30" width="40" alt="js-icon"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg">
-<img align="center" height="30" width="40" src="office.svg">
-<img align="center" height="30" width="40" src="figma.svg">
+
 
 ### Other Knowledge:
 <img align="center" height="50" width="40" alt="js-icon"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
 <img align="center" height="30" width="40" alt="js-icon"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-<img align="center" height="30" width="40" alt="js-icon"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
 <img align="center" height="30" width="40" alt="js-icon"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-<img align="center" height="30" width="40" alt="js-icon"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+
   
 ### Studying In This Moment:
 <img align="center" height="50" width="40" alt="js-icon"  src="laravel-2.svg">
