@@ -14,7 +14,6 @@
 ### Tools:
 <img align="center" height="30" width="40" alt="vscode" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
 <img align="center" height="30" width="40" alt="git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-<img align="center" height="30" width="40" alt="windows" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg">
 <img align="center" height="30" width="40" alt="composer" src="composer.svg">
 
 ### Other Knowledge:
@@ -22,7 +21,6 @@
 <img align="center" height="30" width="40" alt="html"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
 <img align="center" height="30" width="40" alt="css"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
 
-  
 ### Studying In This Moment:
 <img align="center" height="50" width="40" alt="laravel"  src="laravel-2.svg">
 
