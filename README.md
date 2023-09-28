@@ -3,8 +3,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=33A8FF&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Alan;I'm+from+Taquari,+RS;I'm+20+years+old;I+study+systems+development+at+Univates;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
-  <img width="50%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=alancptk7&hide=contribs,issues&bg_color=30,33A8FF,094d79&title_color=fff&text_color=fff" /> 
-  <img width="35%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=alancptk7&layout=compact&bg_color=30,33A8FF,094d79&title_color=fff&text_color=fff" />
+  <img width="50%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=alancapellao&hide=contribs,issues&bg_color=30,33A8FF,094d79&title_color=fff&text_color=fff" /> 
+  <img width="35%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=alancapellao&layout=compact&bg_color=30,33A8FF,094d79&title_color=fff&text_color=fff" />
   
 ### Main Skill:
 <img align="center" height="50" width="40" alt="php" src="php.svg">
@@ -32,16 +32,16 @@
 
 #### Page:
 <div>
-<a href="https://alancptk7.github.io/Portfolio/" target="_blank"><img src="https://img.shields.io/badge/-Portfólio-094d79?style=for-the-badge&logo=&logoColor=white"</a><div/>
+<a href="https://alancapellao.github.io/Portfolio/" target="_blank"><img src="https://img.shields.io/badge/-Portfólio-094d79?style=for-the-badge&logo=&logoColor=white"</a><div/>
 
 #### Source code:
-[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=alancptk7&repo=Portfolio&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/alancptk7/portfolio)
+[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=alancapellao&repo=Portfolio&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/alancptk7/portfolio)
 
 </div>
   
 <div align="center">
 <br><p align="center"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{alancptk7}/count.svg" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{alancapellao}/count.svg" /></p> 
 <br></div>
   
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=33A8FF&height=120&section=footer"/>
