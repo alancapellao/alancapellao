@@ -15,6 +15,7 @@
 <img align="center" height="30" width="40" alt="vscode" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
 <img align="center" height="30" width="40" alt="git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
 <img align="center" height="30" width="40" alt="composer" src="composer.svg">
+<img align="center" height="30" width="40" alt="composer" src="docker.svg">
 
 ### Other Knowledge:
 <img align="center" height="50" width="40" alt="java"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
