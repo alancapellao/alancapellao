@@ -11,6 +11,9 @@
 <img align="center" height="50" width="40" alt="php" src="php.svg">
 <img align="center" height="30" width="40" alt="js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
 <img align="center" height="30" width="40" alt="mysql" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+<img align="center" height="50" width="40" alt="php" src="next-js.svg">
+<img align="center" height="50" width="40" alt="php" src="react-2.svg">
+<img align="center" height="50" width="40" alt="php" src="tailwind-css-2.svg">
 
 ### Tools:
 <img align="center" height="30" width="40" alt="vscode" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
