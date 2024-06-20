@@ -27,7 +27,7 @@
 <img align="center" height="30" width="40" alt="css"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
 
 <h3 align="center">Contact:</h3>
-<a href="mailto: alancapellao.contato@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white"</a>
+<a href="mailto: alancapellao@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white"</a>
 <a href="https://www.linkedin.com/in/alancapellao/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-3498DB?style=for-the-badge&logo=linkedin&logoColor=white"</a>
 
 ### Portfólio:
