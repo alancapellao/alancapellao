@@ -1,40 +1,48 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=33A8FF&height=120&section=header"/>
+# 👨‍💻 Alan Capellão - Full Stack Developer  
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=33A8FF&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Alan;I'm+from+Taquari,+RS;I'm+21+years+old;I+study+systems+development+at+Univates;Be+Welcome!+:%29)](https://git.io/typing-svg)
+Hi there! I'm Alan, a passionate Full Stack Developer focused on building scalable and efficient web applications. I love learning new technologies and creating impactful software solutions.  
 
-<div align="center">  
-  <img width="50%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=alancapellao&hide=contribs,issues&bg_color=30,33A8FF,094d79&title_color=fff&text_color=fff" /> 
-  <img width="35%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=alancapellao&layout=compact&bg_color=30,33A8FF,094d79&title_color=fff&text_color=fff" />
-  
-### Main Skill:
-<img align="center" height="50" width="40" alt="laravel"  src="laravel-2.svg">
-<img align="center" height="50" width="40" alt="php" src="php.svg">
-<img align="center" height="30" width="40" alt="js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-<img align="center" height="30" width="40" alt="mysql" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-<img align="center" height="50" width="40" alt="php" src="next-js.svg">
-<img align="center" height="50" width="40" alt="php" src="react-2.svg">
-<img align="center" height="50" width="40" alt="php" src="tailwind-css-2.svg">
+---
 
-### Tools:
-<img align="center" height="30" width="40" alt="vscode" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-<img align="center" height="30" width="40" alt="git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-<img align="center" height="30" width="40" alt="composer" src="composer.svg">
-<img align="center" height="30" width="40" alt="composer" src="docker.svg">
+## About Me  
 
-### Other Knowledge:
-<img align="center" height="50" width="40" alt="java"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-<img align="center" height="30" width="40" alt="html"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-<img align="center" height="30" width="40" alt="css"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+- 🎯 Exploring new technologies and developing innovative software solutions.  
+- 🎓 Pursuing a degree in **Systems Analysis and Development** at [Univates - Universidade do Vale do Taquari](https://www.univates.br/). 
 
-<h3 align="center">Contact:</h3>
-<a href="mailto: alancapellao@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white"</a>
-<a href="https://www.linkedin.com/in/alancapellao/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-3498DB?style=for-the-badge&logo=linkedin&logoColor=white"</a>
+---
 
-</div>
-  
-<div align="center">
-<br><p align="center"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{alancapellao}/count.svg" /></p> 
-<br></div>
-  
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=33A8FF&height=120&section=footer"/>
+## 🚀 Tech Stack  
+
+### Backend  
+![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)  
+![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=laravel)  
+
+### Frontend  
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)  
+![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js)  
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-333333?style=flat&logo=tailwindcss)  
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)  
+![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)  
+![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)  
+
+### Tools  
+![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)  
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)  
+![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)  
+![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)  
+
+---
+
+## 📊 GitHub Stats  
+
+<a href="https://github.com/alancapellao">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alancapellao&theme=dracula&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alancapellao&layout=compact&theme=dracula" />
+</a>
+
+---
+
+## 📬 Contact Me  
+
+[![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alancapellao/)](https://www.linkedin.com/in/alancapellao/)  
+[![Gmail](https://img.shields.io/badge/-Gmail-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:alancapellao@gmail.com)](mailto:alancapellao@gmail.com)  
