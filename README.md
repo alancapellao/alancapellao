@@ -47,9 +47,9 @@ Hi there! I'm Alan, a passionate Full Stack Developer focused on building scalab
 
 <p>
   <a href="https://www.linkedin.com/in/alancapellao/" target="_blank">
-    <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn" height="25" />
   </a>
   <a href="mailto:alancapellao@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-006bed?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail" />
+    <img src="https://img.shields.io/badge/-Gmail-006bed?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail" height="25" />
   </a>
 </p>
