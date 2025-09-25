@@ -36,13 +36,6 @@ Hi there! I'm Alan, a passionate Full Stack Developer focused on building scalab
   <img src="https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux" alt="Linux" />
 </p>
 
-## 📊 GitHub Stats  
-
-<a href="https://github.com/alancapellao">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alancapellao&theme=dracula&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alancapellao&layout=compact&theme=dracula" />
-</a>
-
 ## 📬 Contact Me   
 
 <p>
